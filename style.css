@@ -1,0 +1,265 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+nav{
+  /*background-color: rgb(60, 60, 203);*/
+  position: absolute;
+  width: 1440px;
+  height: 40px;
+  left: 0px;
+  top: 0px;
+  background: #2B50C8;
+  color: white;
+  padding-left: 40px;
+  padding-top: 20px;
+}
+.c1{
+  
+margin-top: -120px;
+  
+position: absolute;
+width: 500px;
+height: 100px;
+left: 100px;
+top: 262px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 50px;
+
+}
+
+button{
+  background-color: #2B50C8;
+  color: white;
+  width: 100px;
+  
+}
+
+#first_img>img{
+  height: 450px;
+  width: 450px;
+  padding-left: 650px;
+  padding-top: 100px;
+}
+
+h5{
+  text-align: center;
+}
+
+.card {
+  width: 250px;
+  height: 450px;
+  padding: .8em;
+  background: #f5f5f5;
+  position: relative;
+  overflow: visible;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  
+ }
+ 
+ .card-img >img{
+  
+  height: 250px;
+  width: 250px;
+
+ }
+ .card-info {
+  padding-top: -2%;
+ }
+ .card-info>p {
+  padding-top: 10px;
+  font-size: 15px;
+ }
+ 
+ .card-info>button{
+  margin-left: 70px;
+  margin-top: 30px;
+  
+ }
+ 
+.second{
+  display: flex;
+  flex-wrap: wrap;
+  gap:200px;
+  margin: 200px;
+  padding: 20px;
+  padding-bottom: -50px;
+  margin-top: 50px;
+  margin-bottom:0px ;
+}
+ 
+.emp{
+  margin-left: 500px;
+  width: 250px;
+  height: 40px;
+  margin-top: 100px;
+  font-size: 20px;
+  
+}
+
+.video{
+  height: 300px;
+  background: #2B50C8;
+  margin-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.video_img>img{
+  height:250px;
+  width: 250px;
+  padding-left: 50px;
+  padding-top: 20px;
+}
+ 
+.content>h4{
+ padding-left: 400px;
+ padding-top: 20px;
+ color: white;
+}
+.content>h6{
+  padding-left: 200px;
+  padding-top: 30px;
+  color: white;
+  font-size: 20px;
+  font-weight: 100;
+}
+.content{
+  width: 800px;
+  height: 600px;
+}
+
+.second{
+  display: flex;
+  flex-direction: row;
+}
+.s1{
+  width:300px;
+  padding-left: -50px;
+}
+
+.s1>img{
+  height: 400px;
+  width: 400px; 
+
+ }
+ .s2>p{
+  width:250px;
+ }
+ .s2>img{
+  height: 34px;
+  width: 40px;
+ }
+.third{
+  display: flex;
+  flex-direction: row;
+  gap: 150px;
+  padding-left: 150px;
+  padding-top: 50px;
+}
+.card2{
+  width: 200px;
+  height: 300px;
+  border-color: black;
+  background: #f7f2f2;
+  position: relative;
+  overflow: visible;
+  box-shadow: 0px 0px 7.67126px 0.639272px rgba(43, 80, 200, 0.25);
+border-radius: 12.7854px;
+}
+.card-img2>img{
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  margin-left: 60px;
+  margin-top: 20px;
+}
+.card-info2>h6{
+  padding-left: 65px;
+  padding-top: 5px;
+}
+.card-info2>p{
+  padding-left: 15px;
+  padding-top: 5px;
+  font-size:8px
+}
+.card-info2>img{
+  height: 30px;
+  width: 30px;
+  
+  margin-left: 80px;
+  margin-top: 0px;
+}
+.logo>img{
+  height: 20px;
+  width: 20px;
+  padding-top: 30px;
+  padding-left: 35px;
+}
+.logo{
+  display: flex;
+  flex-wrap: wrap;
+  gap:1px;
+}
+.join{
+  width: 900px;
+  height: 120px;
+  margin-top: 50px;
+  margin-left: 150px;
+  background: #FFFFFF;
+  box-shadow: 0px 0px 20px rgba(43, 80, 200, 0.25);
+  border-radius: 10px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.joinc>h3{
+  padding-left: 50px;
+  padding-top: 50px;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-size: 30px;
+}
+.joinc{
+  padding-left: 10px;
+}
+.joinb>button{
+  margin-left: 600px;
+  margin-bottom: 20px;
+  margin-top:0px;
+  margin-right: 10px;
+  height: 30px;
+}
+.joinb{
+  padding-left: 80px;
+  padding-top:0px ;
+}
+footer{
+  height:80px;
+  background: #2B50C8;
+  
+  display: flex;
+  flex-wrap: wrap;
+  color: #FFFFFF;
+  
+}
+.fourth{
+  display: flex;
+  flex-direction: row;
+  gap: 150px;
+  padding-left: 150px;
+  padding-top: 50px;
+  background: #2B50C8;
+  margin-top: 50px;
+  color: #FFFFFF;
+}
+.fourth>div{
+  background: #2B50C8;
+}
+footer>h4{
+  padding-top: 50px;
+  padding-left: 600px;
+}
+
